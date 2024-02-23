@@ -1,0 +1,2 @@
+import pandas as pandas
+PATH = "INMET_SE_SP_A771_SAO PAULO - INTERLAGOS_01-01-2020_A_31-12-2020.CSV"
