@@ -1,0 +1,3 @@
+UFS = ['RJ','SP','MG','ES','PR','SC','RS']
+input_file_path = "assets/FEATURES/MALHAS/BR_UF_2022.shp"
+export_file_path = "assets/UTILS/BR_MASKED/BR_MASK.geojson"

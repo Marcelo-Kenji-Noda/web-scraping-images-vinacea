@@ -6,3 +6,4 @@ model_assets
 config.toml
 model/
 generated_files/
+*.zip
