@@ -1,0 +1,2 @@
+occurence_absence_file_path = "../assets/INPUT/occurence_absence.parquet"
+geojson_output_file_path = "../assets/INPUT/occurence_absence.json"

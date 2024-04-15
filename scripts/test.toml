@@ -1,0 +1,8 @@
+tiff_files = [
+    '../assets/FEATURES/ELEVACAO/BR_elev.tif'
+]
+tiff_output_files = [
+    '../generated_files/mantiqueira_cropped/ELEVACAO/BR_elev.tif'
+]
+
+shape_file = "../assets/INPUT/mant_completa.shp"

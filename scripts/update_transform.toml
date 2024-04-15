@@ -1,0 +1,19 @@
+source_tiff_path= '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_1.tif'
+target_tiff_path= [
+    '../generated_files/mantiqueira_cropped/vegetacao_ibge1992_br.tif',
+    '../generated_files/mantiqueira_cropped/solos2001_br.tif',
+    '../generated_files/mantiqueira_cropped/sa2001tree_br.tif',
+    '../generated_files/mantiqueira_cropped/exposicao_br.tif',
+    '../generated_files/mantiqueira_cropped/density3_br.tif',
+    '../generated_files/mantiqueira_cropped/declividade_br.tif',
+    '../generated_files/mantiqueira_cropped/altitude_br.tif'
+]
+output_target_path= [
+    '../generated_files/mantiqueira_transformed/vegetacao_ibge1992_br.tif',
+    '../generated_files/mantiqueira_transformed/solos2001_br.tif',
+    '../generated_files/mantiqueira_transformed/sa2001tree_br.tif',
+    '../generated_files/mantiqueira_transformed/exposicao_br.tif',
+    '../generated_files/mantiqueira_transformed/density3_br.tif',
+    '../generated_files/mantiqueira_transformed/declividade_br.tif',
+    '../generated_files/mantiqueira_transformed/altitude_br.tif'
+]

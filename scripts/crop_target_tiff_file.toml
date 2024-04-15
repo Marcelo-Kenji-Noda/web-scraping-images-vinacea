@@ -1,0 +1,42 @@
+tiff_files = [
+    '../assets/FEATURES/TEMPERATURE/wc2.1_30s_bio_1.tif',
+    '../assets/FEATURES/TEMPERATURE/wc2.1_30s_bio_2.tif',
+    '../assets/FEATURES/TEMPERATURE/wc2.1_30s_bio_4.tif',
+    '../assets/FEATURES/TEMPERATURE/wc2.1_30s_bio_7.tif',
+    '../assets/FEATURES/TEMPERATURE/wc2.1_30s_bio_9.tif',
+    '../assets/FEATURES/TEMPERATURE/wc2.1_30s_bio_12.tif',
+    '../assets/FEATURES/TEMPERATURE/wc2.1_30s_bio_13.tif',
+    '../assets/FEATURES/VEGETACAO/Cultivated_and_Managed_Vegetation.tif',
+    '../assets/FEATURES/VEGETACAO/Deciduous_Broadleaf_Trees.tif',
+    '../assets/FEATURES/VEGETACAO/Evergreen_Broadleaf_Trees.tif',
+    '../assets/FEATURES/VEGETACAO/Shrubs.tif',
+    '../assets/processed/processed/vegetacao_ibge1992_br.tif',
+    '../assets/processed/processed/solos2001_br.tif',
+    '../assets/processed/processed/sa2001tree_br.tif',
+    '../assets/processed/processed/exposicao_br.tif',
+    '../assets/processed/processed/density3_br.tif',
+    '../assets/processed/processed/declividade_br.tif',
+    '../assets/processed/processed/altitude_br.tif'
+]
+tiff_output_files = [
+    '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_1.tif',
+    '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_2.tif',
+    '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_4.tif',
+    '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_7.tif',
+    '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_9.tif',
+    '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_12.tif',
+    '../generated_files/mantiqueira_cropped/wc2.1_30s_bio_13.tif',
+    '../generated_files/mantiqueira_cropped/Cultivated_and_Managed_Vegetation.tif',
+    '../generated_files/mantiqueira_cropped/Deciduous_Broadleaf_Trees.tif',
+    '../generated_files/mantiqueira_cropped/Evergreen_Broadleaf_Trees.tif',
+    '../generated_files/mantiqueira_cropped/Shrubs.tif',
+    '../generated_files/mantiqueira_cropped/vegetacao_ibge1992_br.tif',
+    '../generated_files/mantiqueira_cropped/solos2001_br.tif',
+    '../generated_files/mantiqueira_cropped/sa2001tree_br.tif',
+    '../generated_files/mantiqueira_cropped/exposicao_br.tif',
+    '../generated_files/mantiqueira_cropped/density3_br.tif',
+    '../generated_files/mantiqueira_cropped/declividade_br.tif',
+    '../generated_files/mantiqueira_cropped/altitude_br.tif'
+]
+
+shape_file = "../assets/INPUT/mant_completa.shp"

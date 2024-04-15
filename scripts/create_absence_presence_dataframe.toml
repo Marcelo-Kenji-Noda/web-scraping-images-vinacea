@@ -1,0 +1,7 @@
+occurence_file_path = "../assets/INPUT/occurence.parquet"
+states_filter = ["RS","SC","PR","SP","MG","ES","RJ"]
+n_points_per_state=1000
+random_seed= 42
+geoshape_filepath= "../assets/FEATURES/MALHAS/BR_UF_2022.shp"
+output_filepath="../assets/INPUT/occurence_absence.parquet"
+state_column_name= "SIGLA_UF"

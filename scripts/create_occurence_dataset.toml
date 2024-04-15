@@ -1,0 +1,3 @@
+gbif_raw_file_path = "../assets/INPUT/gbif.csv"
+gbif_treated_file_path = "../assets/INPUT/gbif.parquet"
+occurence_file_path = "../assets/INPUT/occurence.parquet"
