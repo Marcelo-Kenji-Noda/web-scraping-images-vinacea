@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import rasterio
 
-def plot_tif(tif_file):
+def plot_tif(tif_file: set) -> None:
     # Open the GeoTIFF file
     with rasterio.open(tif_file) as src:
         # Read the raster data
@@ -19,6 +19,7 @@ def plot_tif(tif_file):
         plt.title('Elevation Map')
         plt.show()
 
-# Example usage
-tif_file = "../generated_files/mantiqueira_cropped/altitude_br.tif"
-plot_tif(tif_file)
+if __name__ == '__main__':
+    # Example usage
+    tif_file = "../generated_files/mantiqueira_cropped/altitude_br.tif"
+    plot_tif(tif_file)
